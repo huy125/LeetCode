@@ -5,6 +5,7 @@ class Solution {
      * @return Integer
      */
     function trap($height) {
+        // Two Pointer approach
         $left = 0;
         $right = count($height) - 1;
         $maxLeft = 0;

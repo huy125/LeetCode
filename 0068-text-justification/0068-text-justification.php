@@ -75,46 +75,4 @@ class Solution {
 
         return $output;
     }
-
-    function getWords(int $i, array $words, int $maxWidth): array
-    {
-        $currentLine = [];
-        $currentLength = 0;
-
-        while ($i < $maxWidth && strlen($words[$i]) + $currentLength <= $maxWidth) {
-            $currentLine[] = $words[$i];
-            $currentLength += strlen($words[$i]) + 1;
-            $i++;
-        }
-
-        return $currentLine;
-    }
-
-    function createLine(array $line, int $i, array $words, int $maxWidth): string
-    {
-        $baseLength = -1;
-        foreach ($line as $word) {
-            $baseLength += strlen($word) + 1; 
-        }
-
-        $extraSpaces = $maxWidth - $baseLength;
-
-        if (count($line) === 1 && count($words)) {
-            return implode(' ', $line) . str_repeat(' ', $extraSpaces);
-        }
-
-        $wordCount = count($line) - 1;
-        $spacesPerWord = $extraSpaces / $wordCount;
-        $needsExtraSpace = $extraSpaces % $wordCount;
-
-        for ($j = 0; $j < $needsExtraSpace; $j++) {
-            $line[$j] .= ' ';
-        }
-
-        for ($j = 0; $j < $wordCount; $j++) {
-            $line[$j] .= str_repeat(' ', $spacesPerWord);
-        }
-
-        return implode(' ', $line);
-    }
 }

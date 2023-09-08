@@ -41,9 +41,11 @@ class Solution {
     }
 
     /**
-     * @param string $romanNumber
-     * @param string $letter
-     * @param int $numberLetters
+     * @param String $romanNumber
+     * @param String $letter
+     * @param Integer $numberLetters
+     *
+     * @return String
      */
     function buildRomanNumber(string $romanNumber, string $letter, int $numberLetters): string
     {

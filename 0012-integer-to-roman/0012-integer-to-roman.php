@@ -32,7 +32,7 @@ class Solution {
                 $romanNumber = $this->buildRomanNumber($romanNumber, $key, $quotient);
             }
 
-            if (empty($remainder)) {;
+            if (empty($remainder)) {
                 break;
             }
         }

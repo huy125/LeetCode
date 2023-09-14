@@ -10,7 +10,6 @@ class Solution {
         $words = explode(' ', $s);
         $expected = [];
         for ($i = 0; $i < strlen($pattern); $i++) {
-          var_dump($pattern[$i]);
           if (
             $pattern[$i] !== $pattern[$i-1]
             && $words[$i] === $words[$i-1]

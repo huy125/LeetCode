@@ -3,6 +3,24 @@
  * @return {number}
  */
 var minAddToMakeValid = function(s) {
+    let open = 0, close = 0;
+
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] == '(') {
+            open++;
+        } else {
+            open ? open-- : close++;
+        }
+    }
+
+    return open + close;
+};
+
+/** 
+ * Time Complexity: O(N)
+ * Space Complexity: O(N)
+ */
+var minAddToMakeValidUsingStack = function(s) {
     const stack = [];
     let ans = 0;
 
@@ -21,4 +39,4 @@ var minAddToMakeValid = function(s) {
     ans += stack.length;
 
     return ans;
-};
+}

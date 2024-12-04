@@ -19,9 +19,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/huy125/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/huy125/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+## Array
+|  |
+| ------- |
+| [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
 <!---LeetCode Topics End-->

@@ -30,9 +30,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
 | [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->

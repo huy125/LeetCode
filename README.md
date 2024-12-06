@@ -33,10 +33,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
 | [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
 | [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -58,4 +60,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/huy125/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+## Hash Table
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Binary Search
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Greedy
+|  |
+| ------- |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->

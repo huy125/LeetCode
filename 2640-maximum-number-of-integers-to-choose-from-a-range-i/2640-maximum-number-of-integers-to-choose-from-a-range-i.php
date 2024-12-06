@@ -7,8 +7,12 @@ class Solution {
      * @return Integer
      */
     function maxCount($banned, $n, $maxSum) {
-        // Time Complexity: O(N+M)
-        // Space Complexity: O(N)
+        /** Time Complexity:
+         *  usort => Quick Sort implem => O(blogb)
+         *  loop through $n elements => O(n)
+         *  => O(blog(b) + n)
+         *  Space Complexity: O(1)
+        */
         usort($banned, function($a, $b) {
             return $a > $b;
         });

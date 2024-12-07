@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/huy125/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +78,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->

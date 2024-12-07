@@ -26,12 +26,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/huy125/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0837-most-common-word](https://github.com/huy125/LeetCode/tree/master/0837-most-common-word) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/huy125/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/huy125/LeetCode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/huy125/LeetCode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Array
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/huy125/LeetCode/tree/master/0837-most-common-word) |
 | [0860-design-circular-queue](https://github.com/huy125/LeetCode/tree/master/0860-design-circular-queue) |
 | [1165-meeting-scheduler](https://github.com/huy125/LeetCode/tree/master/1165-meeting-scheduler) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/huy125/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
@@ -67,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0837-most-common-word](https://github.com/huy125/LeetCode/tree/master/0837-most-common-word) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/huy125/LeetCode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/huy125/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Binary Search
@@ -90,4 +93,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/huy125/LeetCode/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->

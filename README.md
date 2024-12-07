@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/huy125/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/huy125/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Trie
 |  |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/huy125/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/huy125/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/huy125/LeetCode/tree/master/0837-most-common-word) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/huy125/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 <!---LeetCode Topics End-->
